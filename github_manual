@@ -1,0 +1,17 @@
+How to use git
+
+1. Use the repository URL located on github.com
+
+2. in the terminal go to the library you want to clone the files to
+
+3. type: git clone <URL>
+
+4. git status to see the changed files
+
+5. git add <filename or *> to add the files to commit list
+
+6. git commit -m "commmitmsg"   it commits changes to the local machine
+
+7. git push    uploads the shit into github.com, auth required.
+ngergoo
+almafa123
