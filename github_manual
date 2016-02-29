@@ -15,3 +15,5 @@ How to use git
 7. git push    uploads the shit into github.com, auth required.
 ngergoo
 almafa123
+
+8. to get the files into another machine: go to the repo directory: git pull
