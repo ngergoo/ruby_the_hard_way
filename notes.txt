@@ -1,0 +1,21 @@
+important notes
+
+
+Run this:
+ri "File#open"
+To get info about opening a file
+
+to start interactive ruby shell type in irb
+
+to get tab code completion for interactive ruby shell:
+require 'irb/completion'
+
+ipython like roby shell: pry
+
+
+important functions:
+close() closes the file
+read() reads the contents of the file, we can assign the result to a variable
+readline() reads just one line of a text file
+tuncate() empties the file
+write('stuff') writes 'stuff' to the file
